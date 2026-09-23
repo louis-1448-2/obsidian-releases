@@ -54152,6 +54152,13 @@
     "repo": "yunmin311/zheng-tally-obsidian"
   },
   {
+    "id": "zh-search",
+    "name": "Zh Search (汉搜)",
+    "author": "louis-1448-2",
+    "description": "Chinese-first full-text search: word segmentation, relevance ranking, snippet preview.",
+    "repo": "louis-1448-2/obsidian-zh-search"
+  },
+  {
     "id": "evoldown",
     "name": "Evoldown",
     "author": "SleeplessJiang",
